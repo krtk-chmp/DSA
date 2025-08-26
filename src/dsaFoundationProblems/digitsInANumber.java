@@ -1,4 +1,4 @@
-package dsaProblems;
+package dsaFoundationProblems;
 
 import java.util.Scanner;
 
